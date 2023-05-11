@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060269819608",
+    "firebase_url": "https://qrapp-4f12c-default-rtdb.firebaseio.com",
+    "project_id": "qrapp-4f12c",
+    "storage_bucket": "qrapp-4f12c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060269819608:android:f5ea103b2b8af4596379ad",
+        "android_client_info": {
+          "package_name": "com.qrappcode.qrdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060269819608-ao79a6akubemncsdki4fco5mh5rnh8a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZn9CaG40skFVbp1uhwUkbnAelrwc-jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060269819608-ao79a6akubemncsdki4fco5mh5rnh8a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
